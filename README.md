@@ -1,6 +1,19 @@
 # Разработка интернет-магазина Moire (премиальное бельё) на Vue.js с использованием REST API.
+****
 
-## сборка приложения
+главная страница
+<img width="1330" alt="Снимок экрана 2024-05-07 в 17 26 51" src="https://github.com/Frontess/Moire-shop-vue/assets/127450758/81bb0143-6a1b-474d-8487-47ce72056d3c">
+
+просмотр товара
+<img width="1349" alt="Снимок экрана 2024-05-07 в 17 27 23" src="https://github.com/Frontess/Moire-shop-vue/assets/127450758/6f8c8a93-0cd5-46c8-af43-e3df0e5c4d62">
+
+корзина с товарами
+<img width="1407" alt="Снимок экрана 2024-05-07 в 17 27 52" src="https://github.com/Frontess/Moire-shop-vue/assets/127450758/06635998-640c-4666-b22a-e56eb3882b97">
+
+заполнение карточки для доставки
+<img width="1404" alt="Снимок экрана 2024-05-07 в 17 28 14" src="https://github.com/Frontess/Moire-shop-vue/assets/127450758/af4c384e-4076-4050-96eb-f931190055a5">
+
+## Cборка приложения
 
 ## Project setup
 ```
